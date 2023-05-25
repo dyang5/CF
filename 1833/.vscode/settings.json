@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tex": "latex",
+        "queue": "cpp",
+        "vector": "cpp",
+        "set": "cpp"
+    }
+}
